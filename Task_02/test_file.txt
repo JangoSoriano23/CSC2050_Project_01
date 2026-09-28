@@ -1,0 +1,6 @@
+0 | 1
+1 | 1
+#the line below is meant to fail
+2 | 44
+5 | 120
+6 | 720
